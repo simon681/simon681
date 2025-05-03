@@ -29,4 +29,4 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/murshidulhasan/)
 - 🌐 [Website](https://murshidul.com/)
 - 📧 Email: hello@murshidul.com
-- 📘 [Facebook](https://www.facebook.com/simon.mmh26/)****
+- 📘 [Facebook](https://www.facebook.com/simon.mmh26/)
