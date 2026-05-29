@@ -1,32 +1,28 @@
-# 👋 Hi, I’m Murshidul Hasan
+# Hi there, I'm Murshidul Hasan, MBA 👋 
 
-🎯 A strategic marketing leader with 14+ years of experience in digital marketing, branding, and business transformation. I specialize in leading high-impact campaigns, driving data-informed growth, and building powerful brand narratives across platforms.
+I am a **Growth Acquisition Leader and Hybrid Engineer** with over 14 years of experience scaling cross-channel digital performance portfolios for global media agencies (GroupM), enterprise digital marketplaces (Alibaba Group), and fintech. 
 
-## 👀 I’m interested in:
-- Python, Machine Learning, AI, and Data Science
-- Web Development and Full-Stack Engineering
-- Digital Innovation and Martech Integrations
+I bridge the gap between multi-million dollar media investments and technical execution. By blending high-level commercial architecture with full-stack web engineering and data science, I design custom data layers, audit technical tracking frameworks, and build scalable digital products that unlock real full-funnel efficiency.
 
-## 🌱 I’m currently learning:
-- HTML, CSS, JavaScript, Flexbox, Grid
-- jQuery, Node.js, Express.js, EJS, React.js
-- SQL, PostgreSQL, Firebase, Python
-- Machine Learning, TensorFlow, AI Concepts
+---
 
-## 🛠 Tools & Skills I Work With:
-- Google Ads, Meta Ads, SEO, SEM, Programmatic Ads
-- Google Analytics, Tag Manager, Ahrefs, SEMRush
-- WordPress, GitHub, Visual Studio Code, Canva
-- Scrum, Kanban, Agile Workflows
+### 🛠 My Core Technical Stack
 
-## 🚀 Notable Work:
-- Led digital strategy for **Banglalink**, **ACI**, and **Marico** at GroupM
-- Built live commerce growth at **Alibaba Group (Daraz)** with 750+ influencers
-- Launched City Islamic & City Alo for **City Bank**
-- Boosted ShareTrip revenue 3X through SEO, SEM, and performance campaigns
+* **Languages & Core Web:** JavaScript (ES6+), Python, HTML5, CSS3, SQL
+* **Front-End Engineering:** React.js, Responsive Web Architecture, Web3 Implementations
+* **Back-End & Systems:** Node.js, Express.js, PostgreSQL, MySQL Relational Database Design
+* **Data Science & Analytics:** Predictive Modeling, Machine Learning workflows, Data Manipulation, Statistical Analysis
+* **MarTech Ecosystems:** Google Analytics (GA4), Advanced Conversion Tracking, Custom GTM Architecture, Programmatic Bidding Mechanics
 
-## 📫 Let’s Connect:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/murshidulhasan/)
-- 🌐 [Website](https://murshidul.com/)
-- 📧 Email: hello@murshidul.com
-- 📘 [Facebook](https://www.facebook.com/simon.mmh26/)
+---
+
+### 🚀 What I'm Focused on Building
+* **Technical Attribution Frameworks:** Custom tracking systems designed to bridge client-side user journeys with back-end analytical relational databases.
+* **Data Pipelines:** Engineering Python and SQL automation scripts to clean up cross-platform media performance data and deliver unified business intelligence.
+* **Full-Stack Solutions:** Developing secure, optimized web applications using clean, responsive front-end components and structured relational database schemas.
+
+---
+
+### 🔗 Let's Connect & Collaborate
+* 💼 **LinkedIn:** [My Professional Profile](https://www.linkedin.com/in/murshidulhasan/)
+* 🏆 **Verified Credentials:** [View My 14+ Verified Portfolio Certifications on Accredible](https://www.credential.net/profile/murshidulhasan/wallet)
